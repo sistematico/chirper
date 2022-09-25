@@ -19,7 +19,7 @@
   "env": {
       "APP_ENV": "production",
       "APP_DEBUG": "false",
-      "APP_URL": "https://chirper-sistematico.vercel.app",
+      "APP_URL": "https://chirper-c7n44dszn-sistematico.vercel.app",
       "DB_CONNECTION": "sqlite",
 
       "APP_CONFIG_CACHE": "/tmp/config.php",
